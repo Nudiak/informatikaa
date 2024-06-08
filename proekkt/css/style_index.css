@@ -1,0 +1,56 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+html{
+	min-height: 100%;
+	background-size: cover;
+	background-image: url('../img/dota-2-logotip-logo-kamen.jpg');
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+body{
+	min-height: 100%
+}
+.content{
+	position: absolute;
+	width: 580px;
+	margin: 50px auto;
+	font-family: "Josefin Slab", Arial, sans-serif;
+	font-size: 13px;
+	text-align: center;
+	font-weight: bolder;
+
+}
+.content_title
+{
+	margin: 0px;
+	padding: 20px;
+	font-size: 58px;
+	color: white;
+	text-align: center;
+	text-shadow: 0px 0px 10px #00BFFF;
+}
+
+.menu li{
+	font-size: 40px;
+	display: block;
+	line-height: 66px;
+
+}
+.menu li a{
+	color: white;
+	display: block;
+	text-align: left;
+	text-shadow: 0px 0px 3px #00BFFF;
+	letter-spacing: 1px;
+	transform: scale(0.8);
+	transition: all 0.4s linear;
+}
+.menu li a:hover{
+	text-shadow: none;
+	color: #00BFFF;
+	background: rgba();
+	transform: scale(1);
+}

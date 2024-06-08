@@ -1,0 +1,118 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background: #F5F5F5;
+	font-family: "Bookman Old Style", serif;
+}
+.content
+{
+	width: 1000px
+	margin: 50px auto;
+}
+.logo
+{
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 2pt;
+	word-spacing: 1.8pt;
+}
+.preview
+{
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	padding: 10px;
+	border-radius: 2px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.preview a
+{
+	text-decoration: none;
+	color: black;
+}
+.preview2
+{
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	padding: 10px;
+	border-radius: 2px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.preview2 a
+{
+	text-decoration: none;
+	color: black;
+}
+.preview3
+{
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	padding: 10px;
+	border-radius: 2px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.preview3 a
+{
+	text-decoration: none;
+	color: black;
+}
+.preview4
+{
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	padding: 10px;
+	border-radius: 2px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.preview4 a
+{
+	text-decoration: none;
+	color: black;
+}
+#goBack
+{
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+	position:relative;
+	top: 5px;
+	margin: auto;
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	font-size: 18pt;
+	padding: 15px;
+
+}
+#goBack a
+{
+	text-decoration: none;
+	color:black;
+}
+#goBack:hover
+{
+	background-color: lightblue;
+}
